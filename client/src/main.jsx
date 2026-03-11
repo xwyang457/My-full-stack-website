@@ -7,8 +7,8 @@ import { Auth0Provider } from "@auth0/auth0-react";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <Auth0Provider
-      domain="dev-q353ctd22k5f6lt8.us.auth0.com"
-      clientId="k8pZ23sJicK3WU0UAnUiehjUcZcglKHe"
+      domain="dev-2ehw1wjkd3fyz2vx.us.auth0.com"
+      clientId="82QZY3Ru8qe95HO6L5eBczNYQmzIXadz"
       authorizationParams={{
         redirect_uri: "https://my-full-stack-website-chi.vercel.app",
       }}
